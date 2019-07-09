@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-faker-db",
+  "version": "1.0.0",
+  "main": "./src/server.js",
+  "scripts": {
+    "serve": "nodemon main"
+  },
+  "repository": "https://ternthana@github.com/ternthana/nodejs-faker-db.git",
+  "author": "Thanapong Yingyong <thanapongtle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
